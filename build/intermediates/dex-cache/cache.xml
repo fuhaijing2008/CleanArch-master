@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41eaf91db90c8a58a03786acbbbe83c710491f08">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\io.realm-realm-android-library-1.0.0_518966386dfd66c2ee9f26872b1cd6e4dd5faeb3.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_6c6dbbdc729886154d2be3b228fc9152d2dc461c.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0\bf61256d9868ea053e24d77669c55c80db375c15\adapter-rxjava-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0_0e39315d2faf0d8b5c26662f993afc04c19a40e2.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_8bc6f8e0d5df806920538b5edd86266f286b37c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.5_96e334cda9bbbb329b760c95db5dcbdac5229215.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_38b512f13c7c1319f2ef9339ef306edf428e0d12.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_e0f9b342d3a037af2770a006e67b947c37bb93c0.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_97574c649830121d76d8f044048cd417c6432879.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_0798b9673439a8893b370f72f646c65f7fd3b9ae.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_3453acf8a97d16647749546923494e8c9d030eae.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_32efc34b1e15faa64035520f7c11417f8c6825eb.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_a5c1a887903e8cb04a1e29c6043bf873f5b04602.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.0_739d14182fd2c26b725aaf75516d134b329e48ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.0.0\a3f198fe36d4071e5832d7aad8ca19798e87a64c\realm-annotations-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a3f198fe36d4071e5832d7aad8ca19798e87a64c">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\realm-annotations-1.0.0_dfd88d66ad49f5d12a25fa845741127f72903b8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_bd91579290648fd154b81e78b3400dcb452f722d.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_ea390822241579f7d419702809d55f1af2f98987.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f45a0143e9c43a459f3f331a6b3e7daf13981ef4">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.jakewharton.timber-timber-4.1.0_74e020a1c5c8c92455cdd599fd1446e50e324123.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_86e5760fd1aa0409b22504c5345b70392d211892.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.getkeepsafe.relinker-relinker-1.2.1_716b1b17cdf7ad7fb0a2d50c4f4e1bb92ef92eb0.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_e9e0be40527b93472d7f842c40070a09194aa021.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_02537b84f910d1483e121f6f778ed5c35880c1bb.jar" />
+    </item>
+    <item
+        jar="F:\CleanArch-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.2.1_1cda4b423e9730c2a3983e5c0f688be4fba20556.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\gson-2.6.1_6ab3ce35bd91e86d7c5847d877c2c3ee1e9452fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_607ed232bc3de5c828953cde432254bf6ed10cac.jar" />
+    </item>
+    <item
+        jar="C:\Users\fuhaijing\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="F:\CleanArch-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_7dcfc739babd1b4f221eff5dec9008e30dd9ab76.jar" />
+    </item>
+
+</items>
